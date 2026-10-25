@@ -1,0 +1,19 @@
+{
+  "Ohio": {
+    "center": [
+      40.4173,
+      -82.9071
+    ],
+    "cities": {
+      "Columbus": {
+        "center": [
+          39.9612,
+          -82.9988
+        ],
+        "zoom": 11,
+        "timezone": "America/New_York"
+      }
+    },
+    "timezone": "America/New_York"
+  }
+}

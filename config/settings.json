@@ -1,0 +1,10 @@
+{
+  "default_region": "Ohio",
+  "default_city": "Columbus",
+  "theme": "night",
+  "fact_interval_seconds": 120,
+  "welcome_weather": "sunny",
+  "welcome_scroll_pixels_per_second": 12,
+  "map_zoom": 11,
+  "temperature_unit": "fahrenheit"
+}
